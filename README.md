@@ -1,8 +1,8 @@
 # Student-Enrollment-Form
-**Benefits of using JsonPowerDB**
+## Benefits of using JsonPowerDB
 
-Improve existind application reporting/analytics performance.
+- Improve existind application reporting/analytics performance.
 
-Live working HTML templetes.
+- Live working HTML templetes.
 
-All Document DB Use-Cases.
+- All Document DB Use-Cases.
