@@ -13,4 +13,3 @@ I have created a Student Enrollment Form. I have used HTML5, JavaScript.
 - Minimum development cost.
 - Nimble, Simple to use, Easy to maintain.
 - Muiltiple security layers.
-## Release History (release of your JsonPowerDB related code on Github)
